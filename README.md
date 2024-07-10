@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Real-Time Streaming Data Pipeline with Kafka and Docker
 ## Overview
     - The goal of this project is to construct a real-time streaming data pipeline that uses Docker and Kafka to ingest, process, and store streaming data. The pipeline consists of parts for reading messages from a Kafka topic, analyzing the information, and creating messages and insights for new topics in Kafka
